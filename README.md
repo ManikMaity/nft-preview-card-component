@@ -1,6 +1,12 @@
 # nft-preview-card-component
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.linkedin.com/in/manikmaity/).
 
+<hr>
+
+### [Live Website](https://manikmaity.github.io/nft-preview-card-component/)
+### [Linkedin](https://www.linkedin.com/in/manikmaity/)
+<hr>
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -27,9 +33,7 @@ There are challenges in this projects -
 ![screencapture-file-C-Users-Manik-OneDrive-Desktop-Starting-Over-Again-nft-preview-card-component-main-index-html-2023-05-15-20_28_08](https://github.com/ManikMaity/nft-preview-card-component/assets/110734724/d0f02dae-745d-4e4f-a9a6-cb94ff3ea829)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-- My [Linkedin](https://www.linkedin.com/in/manikmaity/)
+- Solution URL: [Frontend Mentor](https://your-solution-url.com)
 
 
 ## My process
